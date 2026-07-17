@@ -1,0 +1,6 @@
+{
+  "name": "Employee Live Location Tracker & Geofencer",
+  "description": "Mobile tracking applet with simulated real-time employee movements, circular geofencing crossings, active shift logs, and instant push notification alerts.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
